@@ -1,0 +1,27 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+li {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    text-decoration: underline; 
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}

@@ -1,8 +1,8 @@
-# hello-world
+# Reviewing CSS 
 
-Adding a README file to this repo. 
-
-This project helps users to calculate tips and total amount of bills. 
-Simply input amount of your bill, select tip %, and hit enter. 
-
-Adding Mohamed as a co-auther. 
+- What are inline styles and how do they differ from using an external stylesheet to set styles?
+- What are the benefits of using an external stylesheet?
+- How do we select a specific element of our webpage to style with CSS?
+- Name four CSS properties.
+- Where should a CSS stylesheet reside?
+- How do we apply the styles created in our .css stylesheet to our .html web page?
